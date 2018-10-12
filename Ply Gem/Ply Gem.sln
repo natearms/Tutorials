@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Ply Gem", "Ply Gem\Ply Gem.rptproj", "{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.Debug|Default.ActiveCfg = Debug
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.Debug|Default.Build.0 = Debug
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.Debug|Default.Deploy.0 = Debug
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.DebugLocal|Default.Build.0 = DebugLocal
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.Release|Default.ActiveCfg = Release
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.Release|Default.Build.0 = Release
+		{A8F9025A-06F0-49E6-A5A6-64492EAF4D55}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6AC2899-8BBD-4AFC-BA45-8E3C198F2F6D}
+	EndGlobalSection
+EndGlobal

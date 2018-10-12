@@ -1,0 +1,7 @@
+C:\Users\nate.arms\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
+C:\Users\nate.arms\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe
+C:\Users\nate.arms\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.pdb
+C:\Users\nate.arms\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csprojAssemblyReference.cache
+C:\Users\nate.arms\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\nate.arms\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
+C:\Users\nate.arms\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb

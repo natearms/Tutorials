@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Ply_Gem_Audit">
+  <ConnectionProperties>
+    <Extension>SQLAZURE</Extension>
+    <ConnectString>Data Source=plygemdqe.eastus.cloudapp.azure.com;Initial Catalog=CRM_ADMIN;Encrypt=True;TrustServerCertificate=True</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>e3c6af2d-b8d6-44ce-b303-26e5a55a01bb</DataSourceID>
+</RptDataSource>

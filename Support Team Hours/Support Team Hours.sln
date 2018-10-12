@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Support Team Hours", "Support Team Hours\Support Team Hours.rptproj", "{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.Debug|Default.ActiveCfg = Debug
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.Debug|Default.Build.0 = Debug
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.Debug|Default.Deploy.0 = Debug
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.DebugLocal|Default.Build.0 = DebugLocal
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.Release|Default.ActiveCfg = Release
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.Release|Default.Build.0 = Release
+		{E3D84616-CBA9-4DD5-A7FE-20D8114498E3}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDBD7571-98E7-4B13-8FC4-C3BC2D9C4CAD}
+	EndGlobalSection
+EndGlobal
