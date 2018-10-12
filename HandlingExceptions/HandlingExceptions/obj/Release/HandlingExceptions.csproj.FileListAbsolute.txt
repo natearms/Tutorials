@@ -1,0 +1,6 @@
+C:\Users\Nate\source\repos\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe.config
+C:\Users\Nate\source\repos\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe
+C:\Users\Nate\source\repos\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.pdb
+C:\Users\Nate\source\repos\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.exe
+C:\Users\Nate\source\repos\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.pdb

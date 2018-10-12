@@ -1,0 +1,7 @@
+C:\Users\Nate\source\repos\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\Nate\source\repos\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Nate\source\repos\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Nate\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojAssemblyReference.cache
+C:\Users\Nate\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\Nate\source\repos\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
